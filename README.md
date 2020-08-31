@@ -1,2 +1,2 @@
-## < ¡Hola, Mundo! /> 👋
-# Im a Web Developer 
+# < ¡Hola, Mundo! /> 👋
+## Mi nombre es Lautaro, y soy desarrollador web fullstack.
