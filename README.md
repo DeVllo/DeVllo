@@ -1,6 +1,7 @@
-# < ¡Hello, World! /> 👋
-## My name is Lautaro, and im a Fullstack web developer 💻
+# < ¡Hello, World! /> 👋 👨‍💻
 
+## LAUTARO DELLONI
+### Software / Web Developer 
 
 
 ### 🥇 Skills:
