@@ -25,4 +25,4 @@ Hi! Im Lautaro, a fullstack web developer who is passionate about learning new t
 - Github: [Devllo](https://github.com/DeVllo)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devllo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devllo?theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
