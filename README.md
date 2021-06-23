@@ -22,7 +22,7 @@ Hi! Im Lautaro, a fullstack web developer who is passionate about learning new t
 ## Find me around the world! 🌎
 
 - Linkedin: [Lautaro Delloni](https://www.linkedin.com/in/lautarodelloni)
-- Github: [Devllo](https://github.com/DeVllo)
+- Github: [Lautaro Delloni](https://github.com/lautarodelloni)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devllo&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
