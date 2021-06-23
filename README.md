@@ -3,7 +3,7 @@
 ## LAUTARO DELLONI
 ### Software / Web Developer 
 
-Hi! Im Lautaro, a fullstack web developer who is passionate about learning new technologies and making open-source projects. Im currently working on [Rocbird](https://www.linkedin.com/company/rocbird ) an IT company from Argentina.
+Hi! Im Lautaro, a fullstack web developer who is passionate about learning new technologies and making open-source projects. Im currently working on [MercadoLibre](https://www.linkedin.com/company/mercadolibre ).
 
 ### 🥇 Skills:
 
